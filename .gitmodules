@@ -1,0 +1,3 @@
+[submodule "42_piscine"]
+	path = 42_piscine
+	url = https://github.com/RogerioLS/42_piscine.git
