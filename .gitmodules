@@ -4,3 +4,6 @@
 [submodule "teste-envio-42"]
 	path = teste-envio-42
 	url = https://github.com/RogerioLS/teste-envio-42.git
+[submodule "42SP"]
+	path = 42SP
+	url = https://github.com/RogerioLS/42SP.git
