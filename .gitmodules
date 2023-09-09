@@ -1,6 +1,3 @@
 [submodule "42_piscine"]
 	path = 42_piscine
 	url = https://github.com/RogerioLS/42_piscine.git
-[submodule "01_teste-envio-42"]
-	path = 01_teste-envio-42
-	url = https://github.com/RogerioLS/teste-envio-42.git
